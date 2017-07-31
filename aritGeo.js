@@ -34,4 +34,4 @@ function aritGeo(arr){
     return arr_aritGeo;
 }
 
-console.log(aritGeo([3,9,27,81]));
+console.log(aritGeo([4,8,16,32]));
