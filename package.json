@@ -1,0 +1,19 @@
+{
+  "name": "arithgeo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "aritGeo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zachang/andelatask.git"
+  },
+  "author": "Ebenezer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zachang/andelatask/issues"
+  },
+  "homepage": "https://github.com/zachang/andelatask#readme"
+}
